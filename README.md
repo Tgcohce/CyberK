@@ -1,14 +1,24 @@
 # CyberK
-CyberK is a very simple BAT script that helped me out during the cyberpatriot competition
+CyberK is a very simple BAT script that helped me out during an IT competition
 
-# Only functionality at the moment is :
+Was crucial for saving time in IT Security Competitions (Wasnt against the rules)
+
+Built in Batch for Windows Machines
+
+# Functionality
 
 --> Disabling Guest and Admin accounts
 
 --> Disabling RDP, remote desktop protocol
 
---> Was crucial for saving time in IT Security Competitions (Wasnt against the rules)
+# What's New For CyberK 2.0
 
---> I would like to improve CyberK overtime
+--> Displays Hostname (New with 2.0)
+
+--> Turns Firewall on and off (New with 2.0)
+
+--> Finds Media files and outputs their path (New with 2.0)
+
+--> Edits Group policy (still in progress) (New with 2.0)
 
 # Any contribution is the most welcomed
