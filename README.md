@@ -1,7 +1,5 @@
 # CyberK
-CyberK is a very simple BAT script that helped me out during an IT competition
-
-Was crucial for saving time in IT Security Competitions (Wasnt against the rules)
+BAT Script to do quick and easy IT Work
 
 Built in Batch for Windows Machines
 
